@@ -1,6 +1,6 @@
 html {
   background-color: #E4E9FD;
-  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  background-image: url("background.png");
   min-height: 1000px;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -8,6 +8,10 @@ html {
 h1 {
   color: #fff;
   padding: 10px; 
+}
+
+.fullBox {
+  margin: 100px 0% 50px 0px;
 }
 
 .box {
